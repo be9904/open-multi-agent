@@ -206,6 +206,10 @@ Issues, feature requests, and PRs are welcome. Some areas where contributions wo
  </picture>
 </a>
 
+## Reddit Post
+
+https://www.reddit.com/r/LocalLLaMA/comments/1s8xj2e/claude_codes_source_just_leaked_i_extracted_its/
+
 ## License
 
 MIT
